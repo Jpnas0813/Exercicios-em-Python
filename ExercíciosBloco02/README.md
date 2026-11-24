@@ -33,3 +33,5 @@ O arquivo de áudio não foi enviado ao repositório por questão de direitos au
 3. Execute o programa a partir da pasta raiz do projeto, porque o caminho no código começa com `ExerciciosBloco02/`.
 
 ## ex007: Jogo de Advinhação
+
+## ex008: Velocidade de queda livre, usando módulo math.
