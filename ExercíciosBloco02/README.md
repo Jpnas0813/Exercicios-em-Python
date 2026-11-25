@@ -35,3 +35,5 @@ O arquivo de áudio não foi enviado ao repositório por questão de direitos au
 ## ex007: Jogo de Advinhação
 
 ## ex008: Velocidade de queda livre, usando módulo math.
+
+## ex009: Média de notas com situação do aluno.
